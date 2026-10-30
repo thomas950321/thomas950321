@@ -68,8 +68,7 @@
 ### 📊 GitHub 活躍度 (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomas950321&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=718096" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas950321&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=718096" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=thomas950321&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=3B82F6&currStreakNum=3B82F6&sideLabels=718096&dates=718096" alt="GitHub Streak Stats" />
 </div>
 
 ---
